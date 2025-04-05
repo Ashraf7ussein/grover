@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         customRed: "#F86061",
+        customRedLight: "#FDECEC",
       },
     },
   },
